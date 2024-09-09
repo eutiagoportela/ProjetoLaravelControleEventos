@@ -1,6 +1,7 @@
 
 # ProjetoLaravelControleEventos
-Projeto Laravel BackEnd para Controle de Eventos, utilizando Models, Controllers, Repositórios e Interfaces, com configuração de envio de email e Task Scheduling.
+Projeto Laravel BackEnd para Controle de Eventos<br/>
+ Utilizando Models, Controllers, Repositórios e Interfaces, com configuração de envio de email e Task Scheduling com jobs.
 
 
 ## Instalação
@@ -9,7 +10,7 @@ Para rodar um projeto Laravel após baixar do GitHub, você precisará seguir os
 
 1. Instalar as dependências do Composer
    Abra o terminal e navegue até o diretório do projeto Laravel.
-   Em seguida, execute o comando: composer install<br />
+   Em seguida, execute o comando: composer install<br/>
    Isso instalará todas as dependências necessárias para o projeto.<br/>
 
 3. Configurar o arquivo .env<br/>
