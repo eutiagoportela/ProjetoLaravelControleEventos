@@ -1,6 +1,6 @@
 
 # ProjetoLaravelControleEventos
-Projeto Laravel BackEnd para Controle de Eventos
+Projeto Laravel BackEnd para Controle de Eventos, utilizando Models, Controllers, Repositórios e Interfaces, com configuração de envio de email e Task Scheduling.
 
 
 ## Instalação
