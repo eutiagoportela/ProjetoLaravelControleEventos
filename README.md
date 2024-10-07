@@ -25,7 +25,4 @@ Para rodar um projeto Laravel após baixar do GitHub, você precisará seguir os
 5. Iniciar o servidor de desenvolvimento com o comando: php artisan serve<br/>
    Isso iniciará o servidor de desenvolvimento do Laravel, e você poderá acessar a aplicação em http://localhost:8000.<br/>
 
-6. O arquivo .env que fica na raiz do projeto e o mail.php que fica na pasta config do projeto, baixar nesse link e substituir eles para funcionar corretamente as configurações de email para teste e gravação no banco.<br/>
-   link: https://uploadnow.io/s/658c313a-74a6-4b09-a8c8-0066ad68fbb9
-   ![image](https://github.com/user-attachments/assets/84046133-41ac-4d7c-be09-4a055d271f06)<br/><br/>
 
